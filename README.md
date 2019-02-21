@@ -1,1 +1,1 @@
-# GradleDemo，从0开始，使用eclipse完成一个Gradle的HelloWorld
+# GradleDemo，从0开始，使用eclipse完成一个Gradle的HelloWorld,详细参考里面的docx文档
